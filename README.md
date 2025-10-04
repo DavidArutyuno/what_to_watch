@@ -39,4 +39,5 @@ pip install -r requirements.txt
 
 ```
 flask run
+flask --app=opinions_app.py run --debug
 ```
